@@ -1,3 +1,1 @@
-class Persona {
-
-}
+data class Persona(var nombre:String)

@@ -1,3 +1,1 @@
-class Animal {
-
-}
+data class Animal(var nombre:String)
